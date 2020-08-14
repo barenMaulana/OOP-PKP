@@ -1,7 +1,7 @@
 {
     "type": "library",
     "license": "proprietary",
-    "name": "oop/pkpcounter",
+    "name": "baren/pkpcounter",
     "description": "Ini adalah sebuah package yang dibuat hanya untuk latihan",
     "authors": [
         {

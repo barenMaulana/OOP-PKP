@@ -1,11 +1,5 @@
 <?php
-require __DIR__ . '/SRC/CalculatorInterface.php';
-require __DIR__ . '/SRC/AbstractCalculator.php';
-require __DIR__ . '/SRC/FirstRuleCalculator.php';
-require __DIR__ . '/SRC/SecondRuleCalculator.php';
-require __DIR__ . '/SRC/ThirdRuleCalculator.php';
-require __DIR__ . '/SRC/FourthRuleCalculator.php';
-require __DIR__ . '/SRC/PPH21Calculator.php';
+require __DIR__ . '/vendor/autoload.php';
 
 use PPH21\FirstRuleCalculator;
 use PPH21\SecondRuleCalculator;
